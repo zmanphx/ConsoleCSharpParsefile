@@ -27,7 +27,7 @@ namespace firstConsole
                 }
             }
 
-            private void ProcessFile(string f)
+            protected void ProcessFile(string f)
             {
                 int FieldCount = 0;
                 string line;
