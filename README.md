@@ -7,11 +7,11 @@ Console application in c# .net core . Processes a csv or tab delimited file. Pro
 
 Basic Logic for this example code
 
-The first record which is the header is not parse. 
+The first record which is the header is not parsed. 
 The program counts the number of [tab] or [ ,] characters and compares it to the expected field count .
 Records that meet the field count are placed in "correct.txt".
 Records that don't meet the filed count are placed in "Incorrect.txt"
 
-File out put is a subdirectory of the file location called  "processed"
+File output is a subdirectory of the file location called  "processed"
 
 No out put files are produced if there are no records. 
