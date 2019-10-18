@@ -57,6 +57,9 @@ namespace firstConsole
                             }
                         }
                     }
+
+                    Console.WriteLine("File(s) processed output at directory {0}", FileLocation + "\\processed\\");
+                    Console.ReadLine();
                 }
                 catch (Exception E)
                 {
