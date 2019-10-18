@@ -1,0 +1,4 @@
+﻿Error occurred while restoring NuGet packages: The operation failed as details for project firstConsole could not be loaded.
+1>------ Build started: Project: firstConsole, Configuration: Debug Any CPU ------
+1>firstConsole -> C:\Temp\c#\firstConsole\firstConsole\bin\Debug\netcoreapp2.1\firstConsole.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

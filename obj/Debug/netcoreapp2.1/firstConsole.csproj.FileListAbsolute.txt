@@ -1,0 +1,10 @@
+C:\Temp\c#\firstConsole\firstConsole\bin\Debug\netcoreapp2.1\firstConsole.deps.json
+C:\Temp\c#\firstConsole\firstConsole\bin\Debug\netcoreapp2.1\firstConsole.runtimeconfig.json
+C:\Temp\c#\firstConsole\firstConsole\bin\Debug\netcoreapp2.1\firstConsole.runtimeconfig.dev.json
+C:\Temp\c#\firstConsole\firstConsole\bin\Debug\netcoreapp2.1\firstConsole.dll
+C:\Temp\c#\firstConsole\firstConsole\bin\Debug\netcoreapp2.1\firstConsole.pdb
+C:\Temp\c#\firstConsole\firstConsole\obj\Debug\netcoreapp2.1\firstConsole.csproj.CoreCompileInputs.cache
+C:\Temp\c#\firstConsole\firstConsole\obj\Debug\netcoreapp2.1\firstConsole.AssemblyInfoInputs.cache
+C:\Temp\c#\firstConsole\firstConsole\obj\Debug\netcoreapp2.1\firstConsole.AssemblyInfo.cs
+C:\Temp\c#\firstConsole\firstConsole\obj\Debug\netcoreapp2.1\firstConsole.dll
+C:\Temp\c#\firstConsole\firstConsole\obj\Debug\netcoreapp2.1\firstConsole.pdb
