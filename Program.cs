@@ -64,6 +64,7 @@ namespace firstConsole
                 catch (Exception E)
                 {
                     Console.WriteLine(E.Message);
+                    Console.ReadLine();
                 }
             }
         }
@@ -102,6 +103,7 @@ namespace firstConsole
             catch (Exception E)
             {
                 Console.WriteLine(E.Message);
+                Console.ReadLine();
             }
         }
     }
