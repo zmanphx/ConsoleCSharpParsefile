@@ -8,3 +8,4 @@ C:\Temp\c#\firstConsole\firstConsole\obj\Debug\netcoreapp2.1\firstConsole.Assemb
 C:\Temp\c#\firstConsole\firstConsole\obj\Debug\netcoreapp2.1\firstConsole.AssemblyInfo.cs
 C:\Temp\c#\firstConsole\firstConsole\obj\Debug\netcoreapp2.1\firstConsole.dll
 C:\Temp\c#\firstConsole\firstConsole\obj\Debug\netcoreapp2.1\firstConsole.pdb
+C:\Temp\c#\firstConsole\firstConsole\obj\Debug\netcoreapp2.1\firstConsole.csprojAssemblyReference.cache

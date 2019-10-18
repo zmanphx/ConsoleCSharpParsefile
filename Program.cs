@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+
 namespace firstConsole
 {
     internal class Program
@@ -19,10 +20,7 @@ namespace firstConsole
 
             public void ProcessDirectory()
             {
-                // Go to directory and find the first file
-                // process file
-                //Go to next file
-
+                // Go to directory and find the first file -process file--Go to next file
                 foreach (string file in Directory.GetFiles(FileLocation))
                 {
                     ProcessFile(file);
@@ -43,12 +41,9 @@ namespace firstConsole
                     while (sr.Peek() != -1)
                     {
                         line = sr.ReadLine();
-
                         FieldCount = line.Split(Format).Length - 1;
-
                         if (FieldCount == NumOfFields - 1)
-                        {
-                            // Write or append to new file in processed folder
+                        {   // Write or append to new file in processed folder
                             using (StreamWriter sw = File.AppendText(FileLocation + "\\processed\\" + "correct.txt"))
                             {
                                 sw.WriteLine(line);
